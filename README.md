@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tydurdenq
+- 👋 Hi, I’m Julia Schaeffer
 - 👀 I’m interested in codeing and computers
 - 🌱 I’m currently learning a bunch of things
 - 💞️ I’m looking to collaborate on nice projects
